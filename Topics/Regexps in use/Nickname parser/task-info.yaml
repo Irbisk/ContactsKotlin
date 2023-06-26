@@ -1,0 +1,17 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  highlight_level: NONE
+  text: "fun parsingNickname(emailString: String): String {\n    val symbolsForNickname\
+    \ = Regex(\"\") // fix this condition\n    val nicknameString = emailString.split(\"\
+    \").first() // fix this condition\n    val (firstName, lastName ) = nicknameString.split(symbolsForNickname)\n\
+    \    val nickname = // put your code here \n    return nickname\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23550#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 24 Jun 2023 21:51:25 UTC"
+record: -1
+submission_language: kotlin

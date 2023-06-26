@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-java.main" target="11" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-kotlin.main" target="11" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task-build-reports-tests.main" target="11" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task-build-test-results.main" target="11" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task-build-tmp.main" target="11" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-DateTimePeriod_class.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-Days_difference.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-Days_until.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-Instant_class.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-Leap_Year.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-Next_Month.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-Theory.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-TimeZone_class_initiation.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Kotlinx_datetime_library-Using_the_kotlinx-datetime_library.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Local_date_and_time-Correctly_initiate_LocalDate.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Local_date_and_time-How_many_days_until.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Local_date_and_time-LocalDate_constructors.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Local_date_and_time-LocalDateTime_constructors.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Local_date_and_time-Print_date.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Local_date_and_time-Theory.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Local_date_and_time-Valid_LocalDateTime_and_LocalDate_properties.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Aaaaaaa_to_a.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Camels_vs._snakes.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Find_the_difference.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Limit.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Nickname_parser.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Removing_chords.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Serial_number_for_game.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Theory.main" target="11" />
+      <module name="Contacts_(Kotlin).Topics-Regexps_in_use-Web_colors.main" target="11" />
+      <module name="Contacts_(Kotlin).util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: <code>Clock.System.todayAt(TimeZone.of("UTC-5"))</code>
+- text: <code>"50-01-01".toLocalDate()</code>
+- text: <code>"2022-12-31T10:10:00".toLocalDate()</code>
+- text: <code>"0050-01-01".toLocalDate()</code>
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19499#comment
+status: Solved
+record: -1
+local_check: false
